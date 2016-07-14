@@ -1,0 +1,3 @@
+[crossconnect]
+ingressPortRange = 1-48
+egressPortRange = 49-98
