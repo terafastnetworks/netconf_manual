@@ -2,8 +2,7 @@ import os
 import sys
 
 from lib.ports import *
-
-
+#testing pull request
 ### product information operations 
 
 def portsInfo(opr):
